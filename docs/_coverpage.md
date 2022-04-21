@@ -10,4 +10,4 @@
 [马上开始 <i class="iconfont icon-down"></i>](#main)
 
 <!-- background image -->
-![](/_media/pic/MacStudio.jpg)
+![](https://kuajingds-oss.xmfstore.com/3b2056220656400d9bc39d9f7f48a541?type=image)
